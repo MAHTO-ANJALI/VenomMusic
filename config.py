@@ -9,18 +9,18 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID","20175549"))
-API_HASH = getenv("API_HASH","ac63d3b8b1002ead3a81e0e8f9057322")
+API_ID = int(getenv("API_ID","21114830"))
+API_HASH = getenv("API_HASH","7cf6838a8f5acd6ea41f29fe3143ad60")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN","6935105642:AAHKljp05hsSFEIlose7K6y5bOdrwgS9g54")
+BOT_TOKEN = getenv("BOT_TOKEN","7111848175:AAHmxUGGZ9l06Lp-liHvFfvZDzNHsaoQqpk")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Imceobitxh")
+OWNER_USERNAME = getenv("OWNER_USERNAME","vemom_pratap")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "AlishaMusix_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Venom_X_Music_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Alisha")
+BOT_NAME = getenv("BOT_NAME" , "VenomMusic")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Alisha")
+ASSUSERNAME = getenv("ASSUSERNAME" , "VenomMusic")
 # ---------------------------------------------------------
 
 
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002050705178))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6527727109))
+OWNER_ID = int(getenv("OWNER_ID", 1073815732))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/SpartanMafia/DuggiGptMusic",
+    "https://github.com/venompratap/Venom-Main-Music-BOT.git",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/aiimsbsc01")
-SUPPORT_CHAT = getenv("OWNER", "https://t.me/Imceobitxh")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/venompratap")
+SUPPORT_CHAT = getenv("OWNER", "https://t.me/venom_pratap")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
